@@ -1,4 +1,4 @@
-# Workshop-Portfolio-Building
+# Portfolio Building
 
 This is a beginner-friendly website project where you can create your own website portfolio, using HTML/CSS/Javascript!
 
@@ -10,10 +10,10 @@ You will get to reinforce all the main basics and have your own website that inc
 - Clickable links 
 
 # 🧱 What Can You Change?
-- 
-- 
-- 
-- 
+- School information, name, descriptions
+- Background color, buttons
+- Adding projects
+- Anything and everything!
 
 Most of all I encourage you to make it your own!
 
@@ -21,7 +21,7 @@ Most of all I encourage you to make it your own!
 - The structure of HTML Pages
 - Dabble with Javascript! (really important in Web Dev)
 - More Customization through CSS
-- 
+- Making your page your own!
 
 ## License
 This project uses MIT license. You are free to copy, modify and use it however you like. 
