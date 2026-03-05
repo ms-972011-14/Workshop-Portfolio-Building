@@ -1,0 +1,119 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: linear-gradient(135deg, #fff3e0, #ffe4e4, #fff0e8);;
+}
+
+.navbar {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100%;
+  background-color: white;
+  z-index: 100;
+}
+
+.navbar .nav-link {
+  color: black;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.navbar .nav-link:hover {
+    color: rgb(218, 95, 115);
+}
+
+.navbar-brand:hover {
+  color: rgb(218, 95, 115);
+}
+
+.home_page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  padding-top: 60px;
+}
+
+.home_section {
+    padding: 100px;
+}
+
+.pfp {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.about_page {
+    padding: 100px;
+}
+
+.about_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.tag {
+    border: 1px solid black;
+    background-color: pink;
+    border-radius: 5px;
+    padding: 2px 8px;
+    margin: 2px;
+}
+
+.projects_page {
+  padding: 60px;
+  text-align: center;
+}
+
+.projects_grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.project_card {
+    border: 1px solid rgb(201, 72, 93);
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    text-align: left;
+}
+
+.home_page, .about_page, .projects_page {
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.contact_page {
+  min-height: 10vh;
+  text-align: center;
+  padding: 60px;
+}
+
+.contact_card {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px 30px;
+  margin-top: 20px;
+}
+
+.contact_card a {
+  text-decoration: none;
+  color: black;
+}
+
+#divider {
+    color: rgb(201, 72, 93);
+}
