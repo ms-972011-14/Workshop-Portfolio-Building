@@ -1,6 +1,6 @@
-# Portfolio Building
+# Build Your Portfolio Website!
 
-This is a beginner-friendly website project where you can create your own website portfolio using HTML/CSS/Javascript!
+This is a beginner-friendly website project where you can create your own portfolio using HTML/CSS/Javascript!
 
 You will get to reinforce all the main components of Web Development and have your own website that includes the "Choose Your Own Adventure" we worked on in the last workshop! (plus any additional workshops you've done)
 
