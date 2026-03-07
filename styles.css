@@ -90,6 +90,7 @@ body {
 
 .cute_title {
   font-family: "Bitcount Prop Double Ink", system-ui; /* You can change the font here it changes everything with the cute_title id */
+  color: black !important;
 }
 
 /* This is your strengths/extracurricular blocks */
