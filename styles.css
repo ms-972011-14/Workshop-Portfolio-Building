@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: linear-gradient(135deg, #fff3e0, #ffe4e4, #fff0e8); /* You can change the background color of your page, I did a gradient so you can choose multiple colors or just linear-gradient just to have one */
+  background: linear-gradient(135deg, #ff9d00, #fc0404, #2504ff); /* You can change the background color of your page, I did a gradient so you can choose multiple colors or just linear-gradient just to have one */
 }
 
 /* This makes sure whenever you click the nav-bar you can't see the page below, you can add .about_page if you want that section to be bigger! */
@@ -17,7 +17,7 @@ body {
   position: fixed !important;
   top: 0 !important;
   width: 100%; /* You can play around with the width if you'd like maybe if you just want it smaller! */
-  background-color: white !important; /* You can change the color of the whole bar! */
+  background-color: White !important; /* You can change the color of the whole bar! */
   z-index: 100;
 }
 
@@ -187,7 +187,7 @@ body {
 }
   
 #divider {
-    color: rgb(218, 95, 115); /* This is the divider at the home page between the academic year and the quote */
+    color: rgb(0, 0, 0); /* This is the divider at the home page between the academic year and the quote */
 }
 
 /* ==== MEDIA ==== */
